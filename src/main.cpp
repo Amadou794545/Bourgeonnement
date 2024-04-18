@@ -7,8 +7,13 @@ void setup() {
 }
 
 void loop() {
-  Arrosage arrosage;
+  while (true)
+  {
+Arrosage arrosage;
   arrosage;
+    }
+  
+  
 
 }
 
